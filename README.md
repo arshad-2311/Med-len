@@ -118,17 +118,5 @@ medlens/
 - Expiry date detection from the scan.
 
 ---
-
-## 🤝 Team
-
-Built with ❤️ by:
-
-- **Arshad Ahmed** — AI Engineer & Full Stack Developer
-
-**Contact**
-- Phone: +91 95520 89627
-- Email: arshadasik.7@gmail.com
-
----
 s
 © 2026 MedLens — Empowering healthcare accessibility through AI.
